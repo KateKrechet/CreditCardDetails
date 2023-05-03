@@ -1,0 +1,47 @@
+fieldset {
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+
+fieldset label {
+    display: block;
+    font-family: Arial, serif;
+    font-weight: bolder;
+    color: dimgrey;
+}
+
+fieldset input {
+    margin: 10px;
+    background-color: azure;
+    border-radius: 5px;
+}
+
+fieldset select {
+    margin: 10px;
+    background-color: azure;
+    border-radius: 5px;
+    color: dimgrey;
+}
+fieldset legend{
+    background-color: aquamarine;
+    width: 300px;
+    padding: 5px 5px;
+    font-family: Arial, serif;
+    color: indigo;
+    font-weight: bold;
+
+}
+
+form {
+    width: 450px;
+    height: 290px;
+    background-size: 100%;
+    background-image: url("https://avatars.mds.yandex.net/i?id=1096673879f60d414f08ab0323ac9f8121f86aaa-7546197-images-thumbs&n=13");
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+
+body {
+    background-color: #999999;
+}
